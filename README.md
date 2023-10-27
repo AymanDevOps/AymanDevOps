@@ -6,6 +6,7 @@
 - **💼 Currently:** Making waves in Full Stack Engineering at Resilient Coders
 - **🌐 Portfolio:** [aanda.netlify.app](https://aanda.netlify.app/)
 - **🐦 Twitter:** [@AymanDevOps](https://twitter.com/AymanDevOps)
+- **📧 [LinkedIn](https://linkedin.com/in/aymanalabbasi)
 
 ---
 
@@ -34,7 +35,6 @@ Open to partnerships on meaningful tech ventures. Whether it's an open-source co
 
 ## **Join My Journey**
 
-- [LinkedIn](https://linkedin.com/in/aymanalabbasi)
 - 📧 Reach out: aymanadevops@gmail.com
 
 ---
