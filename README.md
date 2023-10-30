@@ -7,6 +7,7 @@
 - **🌐 Portfolio:** [aanda.netlify.app](https://aanda.netlify.app/)
 - **🐦 Twitter:** [@AymanDevOps](https://twitter.com/AymanDevOps)
 - **📧 LinkedIn:** [Ayman Alabbasi](https://linkedin.com/in/aymanalabbasi)
+- **🌎 Location:** Boston, MA
 
 ---
 
